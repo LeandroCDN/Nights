@@ -1,0 +1,16 @@
+{
+  "name": "nights",
+  "version": "1.0.0",
+  "description": "Foundry and Hardhat ennvirioment for a Nights project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LeanLabiano",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-foundry": "^1.0.3",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.1"
+  }
+}
